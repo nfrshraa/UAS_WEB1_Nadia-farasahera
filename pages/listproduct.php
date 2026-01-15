@@ -58,7 +58,7 @@ th {
 <div class="card">
     <div class="card-header">
         <h3>List Produk</h3>
-        <a href="dashboard.php?page=tambah" class="btn btn-tambah">+ Tambah Produk</a>
+        <a href="dashboard.php?page=tambahproduct" class="btn btn-tambah">+ Tambah Produk</a>
     </div>
     <table>
         <tr>
