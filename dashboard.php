@@ -16,7 +16,7 @@ background: #f4f4f4;
 .sidebar {
 width: 220px;
 height: 100vh;
-background: #d51a30ff;
+background: #ffb2ecff;
 color: white;
 position: fixed;
 top: 0;
@@ -89,7 +89,7 @@ padding: 20px;
 <div class="sidebar">
 <h2>Dashboard</h2>
 <a href="dashboard.php">Home</a>
-<a href="dashboard.php?page=listproducts">List Produk</a>
+<a href="dashboard.php?page=listproduct">List Produk</a>
 
 <a href="#">Customer</a>
 <a href="#">Transaksi</a>
